@@ -4,29 +4,23 @@ export default function Home() {
   return (
     <div className='container'>
       <Head>
-        <title>Website</title>
+        <title>Home</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Home</h1>
 
-        <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
-        </p>
-        <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
-        </p>
-        <code>src/page/teamMemberName.js</code>
-
+        
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
-          </a>
+            <h2>Team Pages</h2>
+            <ul> 
+              <li> <a href="/NickOliver">Nick Oliver</a></li>
+              <li><a href="/JackSantucci">Jack Santucci</a></li>
+              </ul>
 
+              <h2>Useful Links</h2>
+            
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
