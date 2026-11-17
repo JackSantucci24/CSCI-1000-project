@@ -6,16 +6,16 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, I'm Jack Santucci </h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='https://upload.wikimedia.org/wikipedia/commons/8/85/Smiley.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original'
+            alt='Jack Santucci'
           />
 
           <p className='description'>
-            Finished - Jack Santucci
+            I'm Jack Santucci, a CS Major at CU. My passions include game design, digital art, and swimming. 
           </p>
 
           <a className='button' href='/'>
