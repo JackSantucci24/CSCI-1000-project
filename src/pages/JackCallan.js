@@ -15,8 +15,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            CS student and photographer at CU Boulder - Jack Callan
-          </p>
+Computer Science student minoring in Sustainability Engineering at CU Boulder, staff photographer for the CU Independent, national-level Taekwondo competitor, and avid mountain biker, skier, and snowboarder.          </p>
 
           <a className='button' href='/'>
             <p> Back to Home Page</p>
